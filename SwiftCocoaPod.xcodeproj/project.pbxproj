@@ -14,6 +14,7 @@
 		FA80D9E01B4384EA004C5252 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA80D9DF1B4384EA004C5252 /* Images.xcassets */; };
 		FA80D9E31B4384EA004C5252 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA80D9E11B4384EA004C5252 /* LaunchScreen.xib */; };
 		FA80D9EF1B4384EA004C5252 /* SwiftCocoaPodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA80D9EE1B4384EA004C5252 /* SwiftCocoaPodTests.swift */; };
+		FAE269D21B4BEBE400AF7B40 /* protocolSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE269D11B4BEBE400AF7B40 /* protocolSwift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		FA80D9E81B4384EA004C5252 /* SwiftCocoaPodTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCocoaPodTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA80D9ED1B4384EA004C5252 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA80D9EE1B4384EA004C5252 /* SwiftCocoaPodTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCocoaPodTests.swift; sourceTree = "<group>"; };
+		FAE269D11B4BEBE400AF7B40 /* protocolSwift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = protocolSwift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				FA80D9D81B4384EA004C5252 /* AppDelegate.swift */,
 				FA80D9DA1B4384EA004C5252 /* ViewController.swift */,
+				FAE269D11B4BEBE400AF7B40 /* protocolSwift.swift */,
 				FA80D9DC1B4384EA004C5252 /* Main.storyboard */,
 				FA80D9DF1B4384EA004C5252 /* Images.xcassets */,
 				FA80D9E11B4384EA004C5252 /* LaunchScreen.xib */,
@@ -289,6 +292,7 @@
 			files = (
 				FA80D9DB1B4384EA004C5252 /* ViewController.swift in Sources */,
 				FA80D9D91B4384EA004C5252 /* AppDelegate.swift in Sources */,
+				FAE269D21B4BEBE400AF7B40 /* protocolSwift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
